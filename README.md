@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Dendy Putra!
+# 👋 Halo, Saya Dendi Ananda Putra!
 
 🎓 Mahasiswa D3 Manajemen Informatika  
 💻 Web Developer yang berfokus pada **Full-Stack Web Development**  
