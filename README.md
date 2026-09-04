@@ -65,38 +65,62 @@ aplikasi full-stack.
 
 ## 🚀 Featured Projects
 
-### 🌐 Project 1
-**[Nama Project]**
+### 🌿 Taman Bunga
+Website informasi/portfolio bertema taman bunga yang dibangun dengan fokus pada
+tampilan modern, responsif, dan user-friendly.
 
-Deskripsi singkat mengenai project dan teknologi yang digunakan.
+**Tech Stack:**  
+`React` `Tailwind CSS`
 
-`Next.js` `TypeScript` `Tailwind CSS`
-
-[🔗 Live Demo](url) • [📂 Repository](url)
-
----
-
-### 💻 Project 2
-**[Nama Project]**
-
-Deskripsi singkat mengenai project dan teknologi yang digunakan.
-
-`Laravel` `PHP` `MySQL`
-
-[🔗 Live Demo](url) • [📂 Repository](url)
+[📂 Repository](url) • [🌐 Live Demo](url)
 
 ---
 
-### 🤖 Project 3
-**[Nama Project]**
+### 📋 TaskFlow
+Aplikasi manajemen tugas untuk membantu pengguna mengelola dan memantau tugas
+secara lebih terorganisir.
 
-Deskripsi singkat mengenai project dan teknologi yang digunakan.
-
-`Python` `Machine Learning`
+**Tech Stack:**  
+`Android Studio` `Java` `Room Database`
 
 [📂 Repository](url)
 
 ---
+
+### 🌱 Plant Disease Classification
+Aplikasi web berbasis **Machine Learning** untuk melakukan klasifikasi penyakit
+pada daun tanaman menggunakan citra digital. Project ini dikembangkan sebagai
+bagian dari tugas akhir.
+
+**Tech Stack:**  
+`Next.js` `TypeScript` `Tailwind CSS` `Python` `CNN` `Machine Learning`
+
+[📂 Repository](url) • [🌐 Live Demo](url)
+
+---
+
+### 💰 Kenaikan Gaji Berkala
+Aplikasi desktop offline untuk membantu pengelolaan dan perhitungan kenaikan
+gaji berkala pegawai.
+
+Aplikasi dikembangkan dengan pendekatan desktop application menggunakan database
+SQLite dan memiliki fitur pengelolaan data pegawai serta tabel gaji.
+
+**Tech Stack:**  
+`Electron` `React` `TypeScript` `Vite` `Tailwind CSS` `SQLite`
+
+[📂 Repository](url)
+
+---
+
+### 📄 AI Document Generator
+Aplikasi web yang dirancang untuk membantu pengguna membuat berbagai jenis
+dokumen secara lebih terstruktur melalui workflow yang sederhana.
+
+**Tech Stack:**  
+`Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui`
+
+[📂 Repository](url) • [🌐 Live Demo](url)
 
 ## 📈 Currently Learning
 
