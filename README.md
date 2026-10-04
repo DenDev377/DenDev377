@@ -65,37 +65,14 @@ aplikasi full-stack.
 
 ## 🚀 Featured Projects
 
-### 🌿 Taman Bunga
-Website informasi/portfolio bertema taman bunga yang dibangun dengan fokus pada
-tampilan modern, responsif, dan user-friendly.
+
+### 💼 Client Portal & Invoice Management System
+Platform SaaS B2B untuk agensi dan *freelancer* yang memfasilitasi transparansi pengerjaan proyek, *time-tracking* (worklogs), penagihan *unbilled hours*, serta akses pembayaran tagihan digital bagi klien secara *multi-tenant*.
 
 **Tech Stack:**  
-`React` `Tailwind CSS`
+`Next.js 15` `TypeScript` `Tailwind CSS` `Prisma v7` `MySQL` `NextAuth.js`
 
-[📂 Repository](url) • [🌐 Live Demo](url)
-
----
-
-### 📋 TaskFlow
-Aplikasi manajemen tugas untuk membantu pengguna mengelola dan memantau tugas
-secara lebih terorganisir.
-
-**Tech Stack:**  
-`Android Studio` `Java` `Room Database`
-
-[📂 Repository](url)
-
----
-
-### 🌱 Plant Disease Classification
-Aplikasi web berbasis **Machine Learning** untuk melakukan klasifikasi penyakit
-pada daun tanaman menggunakan citra digital. Project ini dikembangkan sebagai
-bagian dari tugas akhir.
-
-**Tech Stack:**  
-`Next.js` `TypeScript` `Tailwind CSS` `Python` `CNN` `Machine Learning`
-
-[📂 Repository](url) • [🌐 Live Demo](url)
+[📂 Repository](https://github.com/DenDev377/PortalClient) • [🌐 Live Demo](url)
 
 ---
 
@@ -109,7 +86,7 @@ SQLite dan memiliki fitur pengelolaan data pegawai serta tabel gaji.
 **Tech Stack:**  
 `Electron` `React` `TypeScript` `Vite` `Tailwind CSS` `SQLite`
 
-[📂 Repository](url)
+[📂 Repository](https://github.com/DenDev377/Electron-Project)
 
 ---
 
@@ -120,7 +97,7 @@ dokumen secara lebih terstruktur melalui workflow yang sederhana.
 **Tech Stack:**  
 `Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui`
 
-[📂 Repository](url) • [🌐 Live Demo](url)
+[📂 Repository](https://github.com/DenDev377/DocuAI) • [🌐 Live Demo](url)
 
 ## 📈 Currently Learning
 
