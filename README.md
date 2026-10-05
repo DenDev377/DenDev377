@@ -76,6 +76,16 @@ Platform SaaS B2B untuk agensi dan *freelancer* yang memfasilitasi transparansi 
 
 ---
 
+### 💼 TaskMaster SaaS
+Platform manajemen tugas berbasis web yang dibangun dengan *Next.js 16*, *Prisma ORM*, *MySQL*, dan *NextAuth.js* — dirancang untuk individu maupun tim kecil yang ingin melacak pekerjaan secara terstruktur.
+
+**Tech Stack:**  
+`Next.js 16` `TypeScript` `Tailwind CSS` `Prisma v7` `MySQL` `NextAuth.js`
+
+[📂 Repository](https://github.com/DenDev377/task-saas) • [🌐 Live Demo](url)
+
+---
+
 ### 💰 Kenaikan Gaji Berkala
 Aplikasi desktop offline untuk membantu pengelolaan dan perhitungan kenaikan
 gaji berkala pegawai.
