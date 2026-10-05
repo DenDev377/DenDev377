@@ -124,7 +124,7 @@ dokumen secara lebih terstruktur melalui workflow yang sederhana.
 I'm always interested in learning new technologies, building projects,
 and collaborating on interesting ideas.
 
-📧 **Email:** [email@example.com]  
+📧 **Email:** [dedeny1321@gmail.com]  
 💼 **LinkedIn:** [LinkedIn Profile]  
 🌐 **Portfolio:** [Portfolio Website]
 
