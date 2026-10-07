@@ -3,7 +3,7 @@
 🎓 Mahasiswa D3 Manajemen Informatika  
 💻 Web Developer yang berfokus pada **Full-Stack Web Development**  
 🌱 Saat ini memperdalam **Next.js, TypeScript, Laravel, dan Modern Web Development**  
-📫 Hubungi saya melalui [Email] | [LinkedIn] | [Portfolio]
+📫 Hubungi saya melalui [dedeny1321@gmail.com] | [LinkedIn] | [Portfolio]
 
 ---
 
@@ -110,6 +110,8 @@ dokumen secara lebih terstruktur melalui workflow yang sederhana.
 `Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui`
 
 [📂 Repository](https://github.com/DenDev377/DocuAI) • [🌐 Live Demo](url)
+
+---
 
 ## 📈 Currently Learning
 
