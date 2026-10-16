@@ -35,12 +35,15 @@ aplikasi full-stack.
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### 🔧 Tools & Others
 
@@ -85,6 +88,28 @@ Platform manajemen tugas berbasis web yang dibangun dengan *Next.js 16*, *Prisma
 `Next.js 16` `TypeScript` `Tailwind CSS` `Prisma v7` `MySQL` `NextAuth.js`
 
 [📂 Repository](https://github.com/DenDev377/task-saas) • [🌐 Live Demo](url)
+
+---
+
+### 🗄️ Laci — Laci Digital untuk Barang Berhargamu
+
+Aplikasi web untuk mencatat barang berharga (elektronik, kendaraan, perhiasan,
+dokumen) lengkap dengan foto dan dokumen bukti kepemilikan (struk, garansi).
+Dibuat untuk memberi ketenangan: kalau suatu saat barang hilang atau rusak, kamu
+punya semua bukti di satu tempat.
+
+**Fitur Utama:**
+- 🔐 Autentikasi dengan NextAuth v5 (Credentials Provider)
+- 📦 CRUD barang dengan kategori, nomor seri, tanggal & harga beli
+- 🖼️ Upload foto barang (multiple) & dokumen (struk/garansi)
+- 🔍 Search & filter berdasarkan kategori
+- 📊 Dashboard dengan statistik total barang & total nilai
+- 🎨 UI modern dengan Tailwind CSS, sidebar + navbar layout
+
+**Tech Stack:**  
+`Next.js 15` `TypeScript` `Tailwind CSS` `Prisma v7` `MySQL` `NextAuth.js v5` `UploadThing`
+
+[📂 Repository](https://github.com/DenDev377/laci-ku) • [🌐 Live Demo](url)
 
 ---
 
