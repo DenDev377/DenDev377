@@ -3,7 +3,7 @@
 **Full-Stack Web Developer** yang fokus membangun aplikasi modern dengan **Next.js + TypeScript**.
 
 Saat ini sedang mengembangkan SaaS tools (Client Portal, Task Management, Document Generator) sambil menyelesaikan studi D3 Manajemen Informatika. 
-📫 Hubungi saya melalui [dedeny1321@gmail.com] | [LinkedIn] | [Portfolio]
+📫 Hubungi saya melalui [dedeny1321@gmail.com] |
 
 ---
 
