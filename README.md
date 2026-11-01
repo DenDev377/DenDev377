@@ -86,7 +86,7 @@ Platform SaaS B2B untuk agensi dan *freelancer* yang memfasilitasi transparansi 
 **Tech Stack:**  
 `Next.js 15` `TypeScript` `Tailwind CSS` `Prisma v7` `MySQL` `NextAuth.js`
 
-[📂 Repository](https://github.com/DenDev377/PortalClient) • [🌐 Live Demo](url)
+[📂 Repository](https://github.com/DenDev377/PortalClient)
 
 ---
 
@@ -96,7 +96,7 @@ Platform manajemen tugas berbasis web yang dibangun dengan *Next.js 16*, *Prisma
 **Tech Stack:**  
 `Next.js 16` `TypeScript` `Tailwind CSS` `Prisma v7` `MySQL` `NextAuth.js`
 
-[📂 Repository](https://github.com/DenDev377/task-saas) • [🌐 Live Demo](url)
+[📂 Repository](https://github.com/DenDev377/task-saas)
 
 ---
 
@@ -118,7 +118,7 @@ punya semua bukti di satu tempat.
 **Tech Stack:**  
 `Next.js 15` `TypeScript` `Tailwind CSS` `Prisma v7` `MySQL` `NextAuth.js v5` `UploadThing`
 
-[📂 Repository](https://github.com/DenDev377/laci-ku) • [🌐 Live Demo](url)
+[📂 Repository](https://github.com/DenDev377/laci-ku)
 
 ---
 
