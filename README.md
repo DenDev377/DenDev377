@@ -1,4 +1,4 @@
-### Hi, I'm Dendi 👋
+### Hi, I'm Dendi Ananda Putra 👋
 
 **Full-Stack Web Developer** yang fokus membangun aplikasi modern dengan **Next.js + TypeScript**.
 
