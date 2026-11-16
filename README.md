@@ -62,7 +62,6 @@ aplikasi full-stack.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenDev377&theme=radical)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DenDev377&theme=radical)](https://github.com/DenDev377)
 
 </div>
 <div align="center">
