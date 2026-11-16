@@ -58,11 +58,12 @@ aplikasi full-stack.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenDev377&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenDev377&layout=compact&theme=radical)
+[Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenDev377&theme=dracula)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DenDev377&theme=dracula)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenDev377&theme=radical)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DenDev377&theme=radical)](https://github.com/DenDev377)
 
 </div>
 
