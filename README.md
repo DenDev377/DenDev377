@@ -58,13 +58,17 @@ aplikasi full-stack.
 
 <div align="center">
 
-[Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenDev377&theme=dracula)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DenDev377&theme=dracula)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenDev377&theme=radical)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DenDev377&theme=radical)](https://github.com/DenDev377)
 
+</div>
+<div align="center">
+  <a href="https://github.com/DenDev377">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DenDev377&theme=radical&hide_border=true&area=true" width="95%" />
+  </a>
 </div>
 
 <!-- Snake Animation -->
